@@ -11,9 +11,6 @@ Front-end demo for v1 (Javascript):
 
 https://api-pairs-v1.herokuapp.com/apitest
 
-The most recent version of the API demo is available here:
-
-https://api-pairs.herokuapp.com/apitest
 
 # Use Cases
 
