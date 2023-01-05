@@ -1,7 +1,9 @@
 # Pairs-API V1 for trading stocks (single or pairs), deployed on Heroku
 
 Version 1 of the RESTful API built from the ground-up with Flask-RESTful.
-Pairs-API catches and stores webhooks from trading platforms such as Tradingview.
+
+Check this repository for the latest release:
+https://github.com/ozdemirozcelik/pairs-api
 
 Deployed in Heroku for testing purposes:
 
